@@ -1,0 +1,6 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Hug_Netlify Test'
+theme = "ananke" 
+[params]
+	custom_css = ["css/custom-style.css"]
